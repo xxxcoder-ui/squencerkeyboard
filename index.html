@@ -11,13 +11,13 @@
     var ua = window.navigator.userAgent
     if (ua.match(/mobile/i) && ua.indexOf('iPad') < 0) {
       // mobile view iPad
-      window.isMobile = false;
+      window.isMobile = true;
       if (window.location.pathname.indexOf('/mobile') < 0) {
-        window.location.pathname = '#';
+        window.location.pathname = '/';
       }
     } else {
       window.isMobile = true;
       if (window.location.pathname.indexOf('/mobile') >= 0) {
-        window.location.pathname = '#';
+        window.location.pathname = '/';
       }
     }</script><link href="/static/css/share.min.css" rel="stylesheet"><link href="/static/css/app.218482323009eabe26ecb9ee84758303.css" rel="stylesheet"></head><body><div id="app"></div><script src="/static/js/jquery3.min.js"></script><script type="text/javascript" src="/static/js/manifest.ddc1fb5e597c224d0dc5.js"></script><script type="text/javascript" src="/static/js/vendor.2df8cb0de6efe7af6248.js"></script><script type="text/javascript" src="/static/js/app.5938dc65d8bdd2d31cf7.js"></script></body></html>
