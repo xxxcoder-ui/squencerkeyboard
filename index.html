@@ -9,10 +9,10 @@
       window.location.href = '/';
     }
     var ua = window.navigator.userAgent
-    if (ua.match(/mobile/i) && ua.indexOf('#') < 0) {
+    if (ua.match(/mobile/i) && ua.indexOf('#') >= 0) {
       // mobile view iPad
-      window.isMobile = true;
-      if (window.location.pathname.indexOf('/mobile') < 0) {
+      window.isMobile = false;
+      if (window.location.pathname.indexOf('/mobile') >= 0) {
         window.location.pathname = '/';
       }
     } else {
