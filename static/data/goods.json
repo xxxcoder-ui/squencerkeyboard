@@ -37,10 +37,10 @@
 }, {
 	"esite": "GIT",
 	"name": "tax",
-	"price": "0.01",
+	"price": "99",
 	"salePerMonth": 999999999,
-	"seller": "YUAN",
-	"pic": "05d7da9f7a83f31b.jpg",
+	"seller": "$",
+	"pic": "05d7da9f7a83f31b.mp4",
 	"link": "http://xxxcoder.netlify.app",
 	"valid": true
 }, {
