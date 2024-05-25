@@ -50,11 +50,13 @@ webpackJsonp([1],{"+ZRt":function(e,t,r)
 {"use strict";var n=[{name:"晴天",url:"晴天.mid",degree:5},
 {name:"等你下课",url:"等你下课.mid",degree:3}];n.forEach(function(e){e.url="/static/midi/"+e.url,e.playing=!1}),t.a=n},
 FwAT:function(e,t,r){"use strict";t.a=[
-  { <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script> name:"祝你生日快乐",content:"oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d s<br>\n              oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d fs",degree:1,lyrics:"Happy Birthday to You <br>\n            Happy Birthday to You<br>\n            Happy Birthday to You <br>\n            Happy Birthday to You <br>",author:"棱镜jh",authorLink:"http://"},{name:"小星星",content:"sshhjjh ggffdds <br/> hhggffd hhggffd <br/> sshhjjh ggffdds",degree:1,lyrics:"Little Star <br>\n            Twinkle, twinkle, little star <br>\n            How I wonder what you are <br>\n            Up above the world so high <br>\n            Like a diamond in the sky <br>\n            When the blazing sun is gone",author:"棱镜jh",authorLink:"http://"},
+  {name:"祝你生日快乐",content:"oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d s<br>\n              oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d fs",degree:1,lyrics:"Happy Birthday to You <br>\n            Happy Birthday to You<br>\n            Happy Birthday to You <br>\n            Happy Birthday to You <br>
+  <video width="320" height="240" controls>
+  <source src="static/goodsImgs/05d7da9f7a83f31b.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>  ",author:"棱镜jh",authorLink:"http://"},
+  {name:"小星星",content:"sshhjjh ggffdds <br/> hhggffd hhggffd <br/> sshhjjh ggffdds",degree:1,lyrics:"Little Star <br>\n            Twinkle, twinkle, little star <br>\n            How I wonder what you are <br>\n            Up above the world so high <br>\n            Like a diamond in the sky <br>\n            When the blazing sun is gone",author:"棱镜jh",authorLink:"http://"},
                                                                                                                                                                                                     {name:"新年好",content:"ssso fffs sfhhgfd dfgg fdfs sfdo ads <br/> ssso fffs sfhhgfd dfgg fdfs sfdo ads",degree:1,lyrics:"新年好呀，新年好呀<br>\n            祝贺大家新年好<br>\n            我们唱歌，我们跳舞<br>\n            祝贺大家新年好",author:"棱镜jh",authorLink:"http://"},
                                                                                                                                                                                                              {name:"因为爱情",content:"opsspsdfd spfdpfdsp passpfd fdd dff <br/>opsspsdfd spfdpfdsp passpfd spsfhd <br/> dfhf hhfdhh jklllklkkhf <br/> hfhj hjhhs psfdpfdpjh <br/> dfhf hhfdhh jklllklkkhf <br/> hfhj hjhhs psfdpfdpfd fdfs",degree:3,lyrics:"",author:"棱镜jh",authorLink:"http"},
                                                                                                                                                                                                              {name:"隐形的翅膀",content:"osf hf dsss spoo <br> osf hhh jh hdfd sdd <br> jhf hhhjh fdsdp <br> ops fd fs <br> fhl lk jhjl fds ss sl jh fd sdd <br> 停顿 <br> fhl lk jhjl fds ss sl jh fd ds s",degree:2,lyrics:"",author:"棱镜jh",authorLink:"http"},
