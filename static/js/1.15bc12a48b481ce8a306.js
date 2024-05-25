@@ -50,11 +50,7 @@ webpackJsonp([1],{"+ZRt":function(e,t,r)
 {"use strict";var n=[{name:"晴天",url:"晴天.mid",degree:5},
 {name:"等你下课",url:"等你下课.mid",degree:3}];n.forEach(function(e){e.url="/static/midi/"+e.url,e.playing=!1}),t.a=n},
 FwAT:function(e,t,r){"use strict";t.a=[
-  {name:"祝你生日快乐",content:"oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d s<br>\n              oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d fs",degree:1,lyrics:" <button onclick="pauseVid()" type="button">Pause Video</button><br> 
-
-"video id="myVideo" width="320" height="176"
-"source src="static/goods/Imgs05d7da9f7a83f31b.mp4" type="video/mp4"
-Happy Birthday to You <br>\n            Happy Birthday to You<br>\n            Happy Birthday to You <br>\n            Happy Birthday to You <br>",
+  {name:"祝你生日快乐",content:"oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d s<br>\n              oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d fs",degree:1,lyrics:" <button onclick="pauseVid()" type="button">Pause Video</button><br> "Happy Birthday to You <br>\n            Happy Birthday to You<br>\n            Happy Birthday to You <br>\n            Happy Birthday to You <br>",
   
    author:"棱镜jh",authorLink:"http://"},
   {name:"小星星",content:"sshhjjh ggffdds <br/> hhggffd hhggffd <br/> sshhjjh ggffdds",degree:1,lyrics:"Little Star <br>\n            Twinkle, twinkle, little star <br>\n            How I wonder what you are <br>\n            Up above the world so high <br>\n            Like a diamond in the sky <br>\n            When the blazing sun is gone",author:"棱镜jh",authorLink:"http://"},
