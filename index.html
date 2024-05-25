@@ -1,6 +1,22 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <div class="content">
+   <h1><span>INTRODUCING</span>
+   </h1>
+   <a href="#videoStory" class="button more" id="videoLink">Watch Video<i class="fa fa-play-circle" aria-hidden="true">&nbsp;</i></a>
+   <div id="videoStory" class="mfp-hide" style="max-width: 75%; margin: 0 auto;">
+      <iframe width="720" height="480" src="static/goodsImgs/05d7da9f7a83f31b.mp4" frameborder="0" allowfullscreen></iframe>
+   </div>
+</div>
+
+<script>
+$('#videoLink')
+.magnificPopup({
+	  type:'inline',
+	  midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+})
+		  </script>
         <meta charset="utf-8">
         <meta name="renderer" content="webkit">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
