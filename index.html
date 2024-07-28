@@ -21,12 +21,12 @@
     var ua = window.navigator.userAgent
     if (ua.match(/mobile/i) && ua.indexOf('iPad') < 1) {
       // iPad
-      window.isMobile = false;
+      window.isMobile = true;
       if (window.location.pathname.indexOf('/mobile') < 1) {
         window.location.pathname = '/mobile';
       }
     } else {
-      window.isMobile = false;
+      window.isMobile = true;
       if (window.location.pathname.indexOf('/mobile') >= 1) {
         window.location.pathname = '/';
       }
