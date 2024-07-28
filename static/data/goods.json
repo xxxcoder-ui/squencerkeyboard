@@ -63,7 +63,7 @@
 	"valid": true
 },{
 	"esite": "GIT",
-	"name": "Brand",
+	"name": "Info Event Now",
 	"price": "0.00",
 	"Registration": 999999999,
 	"seller": "Event Concept & Procedure",
@@ -75,7 +75,7 @@
 	"name": "Brand",
 	"price": "0.01",
 	"salePerMonth": 999999999,
-	"seller": "YUAN",
+	"seller": "Event",
 	"pic": "2817ecd689819de3.jpg",
 	"link": "https://xxxcoder.netlify.app",
 	"coupon": "#",
