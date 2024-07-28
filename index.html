@@ -21,13 +21,13 @@
     var ua = window.navigator.userAgent
     if (ua.match(/mobile/i) && ua.indexOf('iPad') < 1) {
       // iPad
-      window.isMobile = true;
-      if (window.location.pathname.indexOf('/mobile') < 0) {
-        window.location.pathname = '/mobile';
+      window.isMobile = false;
+      if (window.location.pathname.indexOf('/') < 0) {
+        window.location.pathname = '/';
       }
     } else {
       window.isMobile = true;
-      if (window.location.pathname.indexOf('/mobile') >= 1) {
+      if (window.location.pathname.indexOf('/') >= 1) {
         window.location.pathname = '/';
       }
     }</script><link href="/static/css/share.min.css" rel="stylesheet">
