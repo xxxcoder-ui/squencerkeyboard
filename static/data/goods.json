@@ -14,7 +14,7 @@
 	"salePerMonth": 999999999,
 	"seller": "YUAN",
 	"pic": "5d4808c716acb007.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }, {
 	"esite": "GIT",
@@ -23,7 +23,7 @@
 	"salePerMonth": 999999999,
 	"seller": "YUAN",
 	"pic": "bc56ea5a17a35998.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }, {
 	"esite": "GIT",
@@ -32,7 +32,7 @@
 	"salePerMonth": 999999999,
 	"seller": "YUAN",
 	"pic": "b8b5a95542c993d2.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }, {
 	"esite": "GIT",
@@ -40,8 +40,8 @@
 	"price": "99",
 	"salePerMonth": 999999999,
 	"seller": "$",
-	"pic": "05d7da9f7a83f31b.mp4",
-	"link": "http://xxxcoder.netlify.app",
+	"pic": "05d7da9f7a83f31b.jpg",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }, {
 	"esite": "GIT",
@@ -50,7 +50,7 @@
 	"salePerMonth": 999999999,
 	"seller": "YUAN",
 	"pic": "ebfbb3b6ba6b7e3f.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }, {
 	"esite": "GIT",
@@ -59,16 +59,16 @@
 	"salePerMonth": 999999999,
 	"seller": "YUAN",
 	"pic": "5aa22eceN5c6ce109.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 },{
 	"esite": "GIT",
 	"name": "Brand",
-	"price": "0.01",
-	"salePerMonth": 999999999,
-	"seller": "YUAN",
+	"price": "0.00",
+	"Registration": 999999999,
+	"seller": "Event Concept & Procedure",
 	"pic": "28026c18dc573bd5.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }, {
 	"esite": "GIT",
@@ -77,7 +77,7 @@
 	"salePerMonth": 999999999,
 	"seller": "YUAN",
 	"pic": "2817ecd689819de3.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"coupon": "#",
 	"valid": true
 }, {
@@ -87,6 +87,6 @@
 	"salePerMonth": 999999999,
 	"seller": "quote",
 	"pic": "3c59fe8440c05e15.jpg",
-	"link": "http://xxxcoder.netlify.app",
+	"link": "https://xxxcoder.netlify.app",
 	"valid": true
 }]
