@@ -21,7 +21,7 @@
     var ua = window.navigator.userAgent
     if (ua.match(/mobile/i) && ua.indexOf('iPad') < 0) {
       // iPad
-      window.isMobile = true;
+      window.isMobile = false;
       if (window.location.pathname.indexOf('/mobile') < 0) {
         window.location.pathname = '/mobile';
       }
