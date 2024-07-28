@@ -22,7 +22,7 @@
     if (ua.match(/mobile/i) && ua.indexOf('iPad') < 1) {
       // iPad
       window.isMobile = true;
-      if (window.location.pathname.indexOf('/mobile') < 1) {
+      if (window.location.pathname.indexOf('/mobile') < 0) {
         window.location.pathname = '/mobile';
       }
     } else {
