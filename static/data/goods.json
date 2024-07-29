@@ -27,10 +27,10 @@
 	"valid": true
 }, {
 	"esite": "GIT",
-	"name": "Brand",
-	"price": "0.01",
-	"salePerMonth": 999999999,
-	"seller": "YUAN",
+	"name": "EVENTNESIA OPEN",
+	"price": "0.00",
+	"Description": "EVENTNESIA",
+	"seller": "$EVENTNESIA",
 	"pic": "b8b5a95542c993d2.jpg",
 	"link": "https://xxxcoder.netlify.app",
 	"valid": true
