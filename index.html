@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+     <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "76b80133-239f-413e-96e6-c5eef8d373b0",
+    });
+  });
+</script>
      <script src="https://apis.google.com/js/platform.js" async defer></script>
      <meta name="google-signin-client_id" content="291084210214-q764bt3helrhrqsek35l2ib8obse83en.apps.googleusercontent.com">
      <script async src="https://fundingchoicesmessages.google.com/i/pub-9978497384789328?ers=1" nonce="QcjtCPaGfdAAlVnM2jFDrQ"></script><script nonce="QcjtCPaGfdAAlVnM2jFDrQ">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
