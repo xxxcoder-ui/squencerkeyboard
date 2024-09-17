@@ -51,7 +51,8 @@ webpackJsonp([1],{"+ZRt":function(e,t,r)
 {"use strict";var n=[{name:"sunny",url:"Acoustic Piano.mid",degree:5},
 {name:"Wait until you finish class",url:"等你下课.mid",degree:3}];n.forEach(function(e){e.url="/static/midi/"+e.url,e.playing=!1}),t.a=n},
 FwAT:function(e,t,r){"use strict";t.a=[
-  {name:"Happy birthday to you",content:"oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d s<br>\n              oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d fs",degree:1,lyrics:" <button onclick="pauseVid()" type="button">Pause Video</button><video
+  {name:"Happy birthday to you",content:"oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d s<br>\n              oopo sa<br> oopo ds <br> oo h f s a p<br> gg f s d fs",degree:1,lyrics:" <button onclick="pauseVid()" type="button">Pause Video</button><br> "Happy Birthday to You <br>\n            Happy Birthday to You<br>\n            Happy Birthday to You <br>\n            Happy Birthday to You <br>
+    "<video
     id="my-player"
     class="video-js"
     controls
@@ -59,8 +60,6 @@ FwAT:function(e,t,r){"use strict";t.a=[
     poster="//vjs.zencdn.net/v/oceans.png"
     data-setup='{}'>
   <source src="//vjs.zencdn.net/v/oceans.mp4" type="video/mp4"></source>
-  <source src="//vjs.zencdn.net/v/oceans.webm" type="video/webm"></source>
-  <source src="//vjs.zencdn.net/v/oceans.ogv" type="video/ogg"></source>
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a
     web browser that
@@ -68,7 +67,7 @@ FwAT:function(e,t,r){"use strict";t.a=[
       supports HTML5 video
     </a>
   </p>
-</video> <br> "Happy Birthday to You <br>\n            Happy Birthday to You<br>\n            Happy Birthday to You <br>\n            Happy Birthday to You <br>",
+</video>",
    author:"Site",authorLink:"http://"},
   {name:"little stars",content:"sshhjjh ggffdds <br/> hhggffd hhggffd <br/> sshhjjh ggffdds",degree:1,lyrics:"Little Star <br>\n            Twinkle, twinkle, little star <br>\n            How I wonder what you are <br>\n            Up above the world so high <br>\n            Like a diamond in the sky <br>\n            When the blazing sun is gone",author:"site",authorLink:"http://"},
                                                                                                                                                                                                     {name:"Happy New Year",content:"ssso fffs sfhhgfd dfgg fdfs sfdo ads <br/> ssso fffs sfhhgfd dfgg fdfs sfdo ads",degree:1,lyrics:"Happy New Year, Happy New Year<br>\n            Happy New Year to everyone<br>\n            we sing, we dance<br>\n            Happy New Year to everyone",author:"site",authorLink:"http://"},
