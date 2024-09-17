@@ -82,60 +82,13 @@ window.__h82AlnkH6D91__("WyJwdWItOTk3ODQ5NzM4NDc4OTMyOCIsW251bGwsbnVsbCxudWxsLCJ
       }
     }</script><link href="/static/css/share.min.css" rel="stylesheet">
 <link href="/static/css/app.218482323009eabe26ecb9ee84758303.css" rel="stylesheet">
-<style>
 
-.YTvid { cursor:pointer }
-#YTvid { position:fixed; top:0; right:0; bottom:0; left:0; z-index:9999; background:rgba(0,0,0,.75) }
-#YTvid span { position:fixed; top:42%; left:0; bottom:0; right:0; padding-top:3em; -webkit-transform:translateY(-50%); -ms-transform:translateY(-50%); transform:translateY(-50%) }
-#YTvid button { position:absolute; top:0; right:0; font:3em/1 Arial; padding:0 0.25em; background:#000; color:#fff; border:0; overflow:hidden; cursor:pointer }
-#YTvid button:hover { background:#333 }
-#YTvid div { position:relative; padding-bottom:56.25%; padding-top:25px; border-top:3px solid #000; height:0 }
-#YTvid iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:0; background:#000; background-size:3em 3em; -webkit-animation:loading 2s linear infinite; animation:loading 2s linear infinite;
-	background-image:linear-gradient(-45deg, rgba(255,255,255,.5) 25%, transparent 25%, transparent 50%, rgba(255,255,255,.5) 50%, rgba(255,255,255,.5) 75%, transparent 75%, transparent)
-	}
-@-webkit-keyframes loading { 0% {background-position:0 0} 100% {background-position:3em 3em} }
-@keyframes loading { 0% {background-position:0 0} 100% {background-position:3em 3em} }
-
-@media ( min-width:45em ) { /* bigger than 720px */
-
-	#YTvid span { left:50%; width:45em; -webkit-transform:translate(-50%,-50%); -ms-transform:translate(-50%,-50%); transform:translate(-50%,-50%) }
-
-}
-</style>
-
-<!--[if lte IE 8]>
-<style>
-#YTvid { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#bf000000,endColorstr=#bf000000); zoom:1 }
-#YTvid span { top:7em; left:50%; width:45em; margin-left:-22.5em } /* roughly centre in IE8 */
-</style>
-<![endif]-->
 </head>
 <body>
      
 
 <div id="app"></div>
-     <div class="page-content">
-
-	<ul>
-	    <li><button type="button" class="YTvid" href="http://www.youtube.com/embed/qgBEcckB_CI?autoplay=1&amp;rel=0&amp;hd=1">Video Tutorial</a></li>
-	</ul>
-
-</div><!-- closing ".page-content" -->
-
-<!--[if gte IE 8]><!-->
-<script>
-var yt = document.querySelectorAll('.YTvid');
-for (var i = 0; i < yt.length; ++i){
-	yt[i].onclick = function(){
-		var vid = document.createElement('div');
-		vid.setAttribute('id', 'YTvid');
-		vid.innerHTML = '<span><button onclick="document.body.removeChild(document.getElementById(\'YTvid\'));">&times;<\/button><div><iframe src="'+this.getAttribute('href')+'" frameBorder="0" allowfullscreen><\/iframe><\/div><\/span>';
-		document.body.appendChild(vid);
-		return false;
-		}
-	}
-</script>
-<!--<![endif]-->
+     
 <script src="/static/js/jquery3.min.js"></script>
 <script type="text/javascript" src="/static/js/manifest.ddc1fb5e597c224d0dc5.js"></script>
 <script type="text/javascript" src="/static/js/vendor.2df8cb0de6efe7af6248.js"></script>
