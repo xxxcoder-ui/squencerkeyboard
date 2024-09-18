@@ -14,7 +14,7 @@
 	"salePerMonth": "RETUNERECORD STONE",
 	"seller": "$BENEFIT FROM RETUNERECORD STONE",
 	"pic": "5d4808c716acb007.jpg",
-	"link": "https://s.shopee.co.id/9zdlgWxHdf",
+	"link": "./static/data/page.html",
 	"valid": true
 }, {
 	"esite": "GIT",
